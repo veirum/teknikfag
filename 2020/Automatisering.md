@@ -74,6 +74,21 @@ Nøgle datoer for perioden.
 
 
 
+## Projektbeskrivelse
+
+Projektbeskrivelse skal indeholde jeres initierende problem/problemstilling. I skal også have identificeret emner til problem analysen ud fra jeres initierende problem. 
+
+
+
+- Initierende problem
+- Identificerede emner der skal analyseres ud fra problemstillingen
+- En problemformulering
+- Et første forstilling og skitse af produktet (jeres løsning)
+- En iburgtagning af Trellofå opgaverne ind og gjordt klar
+- En detaljeret tidsline/gant hvor i indrager ALLE de ting i ved der kommer (SOP osv osv osv) 
+
+
+
 ## Projektstyring
 
 I SKAL benytte Trello og tidslinie til projektstyring. Underviseren skal inviteres til jeres Trello board.
