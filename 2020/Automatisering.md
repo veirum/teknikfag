@@ -67,9 +67,9 @@ Nøgle datoer for perioden.
 | ---------------- | ----- | ---------------------------------- |
 | 26/10 2020       | 44    | Udlevering af projektbeskrivelse   |
 | 9/11 2020        | 46    | Aflevering af projektbeskrivelse   |
-| 25/1 - 27/1 2021 | 4 - 5 | Værkstedsdage                      |
-| 11/2 2021        | 6     | Aflevering af projekt senest 15.00 |
-| 22/2 2021        | 8     | Fremlæggelse af projekt            |
+| 25/1 - 27/1 2021 | 3 - 4 | Værkstedsdage                      |
+| 5/2 2021         | 5     | Aflevering af projekt senest 12.00 |
+| 11/2 2021        | 6     | Fremlæggelse af projekt            |
 | 1/3 2021         | 9     | Udlevering af eksamensprojekt      |
 
 
