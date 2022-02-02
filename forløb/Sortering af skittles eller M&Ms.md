@@ -8,4 +8,12 @@ Komponentliste
 
 
 
+
+
+Rød gul grøn
+
+
+
+
+
 Muligt design
