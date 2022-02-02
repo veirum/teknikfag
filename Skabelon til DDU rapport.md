@@ -22,9 +22,11 @@ En forside skal ud over det grafiske indeholde:
 Alle rapporter har en indholdsfortegnelse. Sørg for at bruge en program som kan generere en indholdsfortegnelse for jer. Og husk nu at indholdsfortegnelsen først skal tælle efter indholdsfortegnelsen, det vil sige at indholdsfortegnelsen ikke er på indholdsfortegnelsen.
 
 - **Indledning**  
-Dfdfdfdfdfdfdfdf
+*(1 - 2 sider)*  
+Indledningen består af en indledende tekst som guider læseren ind i det problemfyldt som rapporten omhandler. Det er vigtigt at få læseren med fra start for at rapporten giver mening.
   - Opgavebeskrivelse
-  - Initierende problem
+  - Initierende problem  
+sdfdsfsf
 - Problemanalyse
   - målgruppe
   - markedsanalyse/State of the art
