@@ -18,11 +18,11 @@ En forside skal ud over det grafiske indeholde:
 - år
 - fag
 
-- **Indholdsfortegnelse**
+- **Indholdsfortegnelse**  
 Alle rapporter har en indholdsfortegnelse. Sørg for at bruge en program som kan generere en indholdsfortegnelse for jer. Og husk nu at indholdsfortegnelsen først skal tælle efter indholdsfortegnelsen, det vil sige at indholdsfortegnelsen ikke er på indholdsfortegnelsen.
 
-- **Indledning**
-  Dfdfdfdfdfdfdfdf
+- **Indledning**  
+Dfdfdfdfdfdfdfdf
   - Opgavebeskrivelse
   - Initierende problem
 - Problemanalyse
