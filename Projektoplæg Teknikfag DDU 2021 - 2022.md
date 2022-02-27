@@ -12,7 +12,11 @@
 
 <br>
 
+#### Forventninger
 
+90 Timer på klassen samt 45 elevtimer
+
+Som det kan ses på det samlede antal timer på klasse samt elevtid er der store forventninger til at i ikke kun laver noget på klassen, men sørger for at få det i har igangsat på klassen bliver færdiggjordt til gangen efter som lektie.
 
 ## Grupper
 
