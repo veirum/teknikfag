@@ -1,4 +1,4 @@
-# Eksamensprojekt Teknikfag DDU 2021
+# Eksamensprojekt Teknikfag DDU 2022
 
 *af Jeppe Veirum Larsen, Februar 2022*
 
