@@ -199,7 +199,7 @@ En problemformulering kan nogle gange have brug for nogle arbejdsspørgsmål ell
 >
 > - vurdering af egen løsning i forhold til problemstillingen.
 
-#### Konkluison
+#### Konklusion
 
 <br/>
 
