@@ -81,7 +81,7 @@ Alle rapporter har en indholdsfortegnelse. Sørg for at bruge en program som kan
 >
 > - formulere en relevant teknisk problemstilling, som forholder sig til det givne projekt
 > - identificere faktorer, som har betydning for den tekniske problemstilling
-> - formulere spørgsmål, så det lægger op til en struktureret analyse
+> - formulere spørgsmål, så det lægger op til en struktureret analyse
 
 <br/>
 Indledningen består af en indledende tekst som guider læseren ind i det problemfelt som rapporten omhandler. Det er vigtigt at få læseren med fra start for at rapporten giver mening.
@@ -154,9 +154,9 @@ En problemformulering kan nogle gange have brug for nogle arbejdsspørgsmål ell
 
 > 📌 *Produktprincip*
 >
-> - opstille relevante krav/kriterier på baggrund af undersøgelserne i problemanalysen og argumentere herfor 
+> - opstille relevante krav/kriterier på baggrund af undersøgelserne i problemanalysen og argumentere herfor 
 > - anvende idegenereringsteknikker
-> - visualisere forskellige løsningsforslag på baggrund af kriterierne
+> - visualisere forskellige løsningsforslag på baggrund af kriterierne
 > - anvende metoder til at finde bedst egnede løsning, kravmatrix eller lignende
 >
 > - anvende iterative processer til optimering
@@ -167,7 +167,7 @@ En problemformulering kan nogle gange have brug for nogle arbejdsspørgsmål ell
 >
 > - visualisering af produktet med evt beregninger og tekniske løsninger
 > - formidle et produkt/proces vha. relevante modeller
-> - argumentere for løsningens delelementer på baggrund af opstillede krav/kriterier 
+> - argumentere for løsningens delelementer på baggrund af opstillede krav/kriterier 
 > - foretage og formidle relevante tekniske forbehold
 
 <br/>
@@ -185,8 +185,8 @@ En problemformulering kan nogle gange have brug for nogle arbejdsspørgsmål ell
 
 > 📌 *Realisering*
 >
-> - arbejde med forskellige biblioteker, moduler og komponenter, på baggrund af deres egenskaber, opbygning og egnethed 
-> - håndtere enhedsoperationer, processer, bearbejdningsmetoder i det aktuelle miljø
+> - arbejde med forskellige biblioteker, moduler og komponenter, på baggrund af deres egenskaber, opbygning og egnethed 
+> - håndtere enhedsoperationer, processer, bearbejdningsmetoder i det aktuelle miljø
 > - arbejde og færdes sikkert i it-miljøet
 
 <br/>
@@ -198,6 +198,8 @@ En problemformulering kan nogle gange have brug for nogle arbejdsspørgsmål ell
 > - teste det fremstillede produkt teknisk, videnskabeligt eller i konkrete brugssituationer
 >
 > - vurdering af egen løsning i forhold til problemstillingen.
+
+#### Konkluison
 
 <br/>
 
