@@ -115,5 +115,5 @@ I **skal** benytte værktøjer så som f.eks. Trello som projektstyringsværktø
 - Rapportskrivning
 	- Hvordan skriver man en rapport der har fokus på skalbelse af viden og udformningen af et produkt. Vi vil tilgå rapportskirvning som der vejledes efter på AAU.
 
-- Analyse
+- Analyse og problemformulering
 	- Dette er en akilleshæl for mange og er noget vi skal have stor fokus på i dette projelkt.
