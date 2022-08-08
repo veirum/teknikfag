@@ -10,9 +10,9 @@ For ikke at tiden løber fra en er det utroligt vigtigt at var yderst opmærksom
 
 
 
-## Værktøjer
+## Teknikker
 
-Der findes forskellige velkendte værktøjer til projekt styring som egner sig godt til forskellige ting.
+Der findes forskellige velkendte teknikker/tilgange til projekt styring som egner sig godt til forskellige ting.
 
 ### Tidslinie
 
@@ -44,15 +44,44 @@ Kortene på kanban boardet kan indeholde forskllige informationer f.eks. hvem de
 
 
 
+### Agil/Scrum
 
+![](https://advanz.dk/wp-content/uploads/2017/04/scrum-sprint-e1492410346503.jpg)
 
-Scrum
-
-
-
-Agil
-
+De agile metoder og scrum bruges i stor stil ved software udvikling. Det er ikke det hele som kan tages direkte og bruges i en projekt/læring kontekst, men mange af ideerne er ekstremt brugbare når man skal håndtere større projekter med mange forskellige opgaver. 
 
 
 
+#### Backlog
 
+
+
+#### Sprint
+
+
+
+
+
+[Mere info om SCRUM](https://advanz.dk/blog/hvad-er-scrum-metode/)
+
+
+
+## Værktøjer
+
+Her er nogle populære værktøjer som er meget udbredt og bruges inden for mange forskellige sektorer.
+
+
+
+### Trello
+
+
+
+### Monday.com
+
+
+
+### Evernote
+
+
+
+### Slack
