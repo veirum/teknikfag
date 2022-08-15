@@ -54,11 +54,11 @@ De agile metoder og scrum bruges i stor stil ved software udvikling. Det er ikke
 
 #### Backlog
 
-
+I SCRUM er backlog udarbejdet i samarbejde med product owner. I teknikfag kan i se det som kravene til produktet.  
 
 #### Sprint
 
-
+Sprint er hvor man tager en eller flere features fra backlog og deler dem op i håndterbare bidder med et tidsestimat. I teknikfag vil det være en fordel at køre sprint på en enkelt dag, fra mandag til torsdag og fra torsdag til mandag, til maksimalt én uge. Grunden til det er at i skal være utrolig opmærksom på jeres tid. 
 
 
 
@@ -74,9 +74,13 @@ Her er nogle populære værktøjer som er meget udbredt og bruges inden for mang
 
 ### Trello
 
+Trello er et fleksibelt system og kan ses lidt som post-it notes på steroider. Det kan bruges til mange forskellige ting og giver et godt overblik.
+
 
 
 ### Monday.com
+
+En konkurrent til Trello, men er opbygget lidt anderledes end Trello.
 
 
 
