@@ -1,0 +1,86 @@
+# Home Automation
+
+*Af Jeppe Veirum Larsen, opdateret d. 8/1 2024*
+
+Varighed: Uge 1 - 6
+Moduler: 30
+Gruppestørrelse: 2 - 3 personer
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAR0AAACxCAMAAADOHZloAAAAY1BMVEUYvPIAufLy9Pn49vkAuPL79/n19fmq3vb/+fpDxPOF0/UAtvHr8/k3wvPW7Pij3fZxz/SZ2PZWx/PA5feP1vXl8PjS6/gbvvK14fan3PbH5/eT2PV50PTf7vjH5fdszPS75PfcMnRsAAAGIklEQVR4nO2Y65aqOBCFqdyIXFvuIojv/5RTFVDbbrtnrV6jfWZmf38IEBLYVnZVjCIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAk6GefvsV/lzS0qsd9HmMKa1ykOcxIo6CPI9ZxXksDxFdWz+egOjbh82f/KNcxHkkT346Jeul6nRafjgBJafT9LUC1Tz+cOAXsIqjrXUP5NlpW4Yr9GZt8sPfmGatiy+f5bv3I9PfxJJ5YaylQRwb59X8QJ6d01d19E/VqXgGvfvqLp29r96fj+3524natnyVPJshjyai3H1eXP+EOhRrp/TXX0RTdRc6sx6/ncjp+EXqpHHwnPDu6QPveaAOceSvPfhwOblek+bHyM/c2Ll5u/j+8a2juRvXFHq8XjHXmS5TEDl9eM3a2sRRruDYqfRneT6pQ/1x7E5JuNk0+dtYjBPRUhfjqp1Zhq6L7+JvsXZKtN1Wz37s6jfDjf7QdeeKW1XT9DxwM3Y8FJ+1rkiaXGKq7rpBhuqPTV6du3HPj701zo2JPPFsTHzJVrqmXD3IXKJOaph0CerQm9baapuxjfTOzpbN3MeNl4O4BZsIX9L2eJPH1FpFudZDuNTybStdc0kE2u+J9l6zFgVftn40pXfKWb9QL4Nzj4b7ejvyuFpnvRm9kvvPV4eO9qpIcQmdIE9+U0ddEXUq63Rddpzf+qjPlG6PJfdfD3Zhi7H2PCWchZarPL24GnUukxlL6/bL4P0imjXLaP2O9lrl1FgdLwfvp2nMXFuPFY2euyazszvKrdJqiDOnz6YclZtP4/PV6a96yNISdRz/7KLDNWmwOk6viDqmcK4ylCaanbHnz2BrqDR/uBz0gThE9mwPbKzXDE6JtW9ESRCMRj2nFDWVeG+dUt/solWdWGcp9+Ib4jupPD0shgyPmIg6Wc+u0zrFE7LvpM/3HZrsB3XcnKeVnGaXPruwyJkkdvKanC/EM1ilmdVZk0cWFg21Ok4Tq0iWYaP1JfwkaviTojUvHrQ79oaHII6dZG0FdY7WHfI0uG+x5ay0rxglotvgfpL8+lflLP49P6hjObVSo+/UYd+RjYAJrlxZHYpe+al7Vic4dhveVtQxB62ygLuYMDuOauu6PmeKF2PUs+/49iAjK3aVmf0pqLP6Thb3N3XyzgubOg0FHV+ujnNXdTx7LS0f1XmXs6otrdOgs+g7dTK1qUNHLfbLlqrWnNd03M7ENvYsiC0u6lAiN7i1qSMFdl2W5e+qY4tRb+rYmoMkHd3X6nCiGWRlUbuurA/q8MrKZGWxM6WXSWaXDQHlulAfmShxdi/haPo9byJMUCfUNpPjRSrVIM+x82vUPlLn8Cp15BXyVR1fG3MsC62+VseMTk/slQfN3/dZHfGlUoq2IrvU1RxtcViaae14N9FwrUPEThUdR7b3nl18jZ1kaFhTKZNZz5mV2rEiPNNkP6nDDvYKVw6xQ1L2aFFnNLyt0E59ow7vSh0HW6t1Gz1YWUSl13M8ZM5ve3I2qM2BZICjKawqk9HxtjOz2TEpnF1C7HAZ4+LkLHteOvPbdBWLkDVTqd1HdahwuuvyBx/0HHXYRbjeyd/9lXFTx/p4U8d7qQarjJO+9oU4rPMhxJUPOSuTA8U+mMx1S5b5dmv2ipddnoVqkJdw5UJr2KrBPpSJbEOR1InaJxI11vu65S6591Jesva2D+Go7/atz1OHrZQ3LaE+uYlzU6efku09dkkSttk0xcNhEfOJtnt3B7Pb1+fm+hd+nlyeZ7ufEv62ZKhjKRW56jnXZdhJJJOkqmk4xWGLwRuHoeTCZ1fWw5tZkiXqt1G2nnk5lF9u+f9RdbjcnScTzTOvilv5k9060cfW7Y++22Z0PX68f//81n7/+N0A9P5vSLod6G7u9/efyjWjW5bnTJVXD9T533KrBlke3kLdakOlfvvd/gAWv22htKQYMbsL7W+/2h8AvcUXhjzaXU/i8un58t8A3fh0BgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwH+VvwA6zk54+25hvAAAAABJRU5ErkJggg==)
+
+Elinstallationer står i et dødvande. Den helt store spiller på det danske markere Lauritz Knudsen, ejet af tyske Schnider Electronics, har fra August 2023 droppet deres flagskib IHC. Det har stillet danskerne der ønsker et avanceret elsetup i deres hjem i et dilemma da der umidlbart ikke findes en afløser. 
+
+
+
+![Matter](data:image/png;base64,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)
+
+De store fabrikanter har prøvet at skabe en fælles protokol kaldet Matter sådan at Hue, Ikea, Apple, Amazon og mange mange flere nemmere kan bruge hinandens forskellige produkter på tværs af deres services. Desværre er det ikke helt lykkedes endnu.
+
+
+
+## Spar på energien
+
+En gennemsnitlig familie på 2 voksne og 2 børn bruger 4500 kWh om året. Ud af disse går ca. 11% til belysning, 7% til TV, og 19% underholdning [1][]. En kWh koster ca. 2,5 kr. 
+
+Som det kan ses på 
+
+### Belysning
+
+I gamle dage hvor gløde pærer var den dominerende for for lyskilde, var det muligt at dæmpe lyset. Ulempen ved en lysdæmper til glødepærer er at den mængde energi der ikke når glødepæren afsættes i selvelysdæmperen og men derved ikke spare på energien, men bare får mindre lys.
+
+Det modsatte gælder dog ved LED belysning. Som tommelfingerregel kan man sige at man spare de % i strøm som man dæmper LED pæren. Hvis du dæmper lysstyrken med 50% spare du rundt regnet også 50% energi.
+
+
+
+### Standby
+
+En anden strømsluger er standby strøm. De fleste apparater i dag har en standby funktion i stedet for en tænd og sluk. Dette er en ofte overset strømsluger. Den eneste måde på moderne apparater at stoppe for stand-by forbruget er at slukke direkte på stikkontakten. Dette er ofte bøvlet at man skal ned og rode bag ved møbler mm. Og bliver derved ofte ikke gjordt. 
+
+
+
+## Det intelligente hjem
+
+
+
+### Sensore
+
+
+
+
+
+
+
+## Opgave
+
+I skal løse en eller flere problematikker i det intelligente hjem ved at kigge på energibesparelser og brugeroplevelsen ved det intelligente hjem. I skal bruge Home Assistant og ESP Home. Det intelligente hjem skal virke uden at komme i vejen for brugeren og vise at det intelligente hjem kan spare på energien.
+
+I skal koordinere jeres implementeringstid med de andre grupper da vi kun kan have en enkelt Holme Assistant server kørende på netværket ad gangen.
+
+
+
+
+
+### Aflevering
+
+Opgaven skal afleveres Onsdag d. 7/2 i uge 6. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Referencer
+
+[1]: https://www.bolius.dk/saa-meget-el-vand-og-varme-bruger-en-gennemsnitsfamilie-279
+
